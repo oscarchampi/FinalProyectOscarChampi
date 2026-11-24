@@ -23,7 +23,7 @@ src
 │       ├── CreatePet.java           # Petición POST para registrar una mascota
 │       ├── GetPet.java              # Petición GET para consultar una mascota por ID
 │       ├── FindPetsByStatus.java    # Petición GET para filtrar mascotas por estado
-│       └── UpdatePet.java           # Petición PUT para actualizar datos de una mascota (si lo incluiste)
+│       └── UpdatePet.java           # Petición PUT para actualizar datos de una mascota
 └── test
     ├── java/org/example
     │   ├── StepDefinition           # Mapeo de pasos Gherkin a acciones del actor
